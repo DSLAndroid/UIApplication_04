@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UI_Application_04</string>
+    <string name="number">账号：</string>
+    <string name="input">手机号/幸运号/邮箱</string>
+    <string name="password">密码：</string>
+    <string name="passwordinput">密码</string>
+    <string name="login">登录</string>
+
+</resources>

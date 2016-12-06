@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="blue">#1baceb</color>
+    <color name="white">#ffffff</color>
+    <color name="white9">#f9f9f9f9</color>
+    <color name="white5">#f5f5f5f5</color>
+    <color name="white10">#f0f0f0f0</color>
+    <color name="fenhong1">#ffecf5</color>
+    <color name="black">#000000</color>
+    <color name="gree">#73d661</color>
+    <color name="hui">#cbcbcb</color>
+    <color name="cai">#0dacca</color>
+    <color name="login_input">#e26165</color>
+    <color name="login_button">#f3a7ca</color>
+    <color name="chat_title">#e38cb0</color>
+    <color name="fenhong">#eb6ca6</color>
+</resources>
